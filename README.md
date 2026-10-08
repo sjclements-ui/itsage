@@ -1,1 +1,2 @@
 # itsage
+doctype htm
